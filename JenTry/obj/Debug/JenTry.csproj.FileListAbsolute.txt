@@ -1,0 +1,7 @@
+C:\Users\Sahaja\Desktop\JenSolution\JenTry\bin\Debug\JenTry.exe.config
+C:\Users\Sahaja\Desktop\JenSolution\JenTry\bin\Debug\JenTry.exe
+C:\Users\Sahaja\Desktop\JenSolution\JenTry\bin\Debug\JenTry.pdb
+C:\Users\Sahaja\Desktop\JenSolution\JenTry\obj\Debug\JenTry.csprojAssemblyReference.cache
+C:\Users\Sahaja\Desktop\JenSolution\JenTry\obj\Debug\JenTry.csproj.CoreCompileInputs.cache
+C:\Users\Sahaja\Desktop\JenSolution\JenTry\obj\Debug\JenTry.exe
+C:\Users\Sahaja\Desktop\JenSolution\JenTry\obj\Debug\JenTry.pdb
